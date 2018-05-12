@@ -1,0 +1,31 @@
+_repo: An-Account-of-the-Diseases-which-were-most-frequent-in-the-British-military-hospitals-in-Germ__31338
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Monro, Donald
+    birthdate: 1727
+    deathdate: 1802
+    gutenberg_agent_id: '35163'
+    url: http://www.gutenberg.org/2009/agents/35163
+description: ''
+gutenberg_issued: '2010-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31338'
+  lccn: '35034540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military hospitals'
+- !lcsh 'Military hygiene'
+- !lcsh 'Medicine, Military'
+- !lcsh 'Seven Years'' War, 1756-1763 -- Medical care'
+- !lcc 'RC'
+title: An Account of the Diseases which were most frequent in the British military
+  hospitals in Germany
+url: http://www.gutenberg.org/ebooks/31338
